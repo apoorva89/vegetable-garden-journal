@@ -2,7 +2,7 @@
   "name": "Garden Journal",
   "short_name": "Garden Journal",
   "description": "My personal gardening journal",
-  "start_url": "/vegetable–garden-journal",
+  "start_url": "/vegetable–garden-journal/",
   "display": "standalone",
   "background_color": "#FDFAF5",
   "theme_color": "#3B2F2F",
